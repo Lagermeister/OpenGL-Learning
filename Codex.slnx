@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="E01_OpenGL_TextRendering/E01_OpenGL_TextRendering.vcxproj" />
+</Solution>

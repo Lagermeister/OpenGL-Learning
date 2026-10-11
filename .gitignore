@@ -29,3 +29,10 @@ packages/
 # Temporäre Dateien
 *.tmp
 *.bak
+
+# Build- und Runtime-Protokolle
+*.log
+
+# Zusaetzliche temporaere Build-Dateien
+*.lastbuildstate
+*.tlog
